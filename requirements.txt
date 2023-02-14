@@ -14,7 +14,7 @@ fastapi==0.75.1
 uvicorn==0.17.6
 python-jose==3.3.0
 six==1.16.0
-starlette==0.17.1
+starlette==0.25.0
 requests==2.27.1
 graphene==3.0.0
 starlette-graphene3==0.5.1
